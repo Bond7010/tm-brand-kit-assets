@@ -35,6 +35,7 @@ index.html                    # Main HTML file (embed-ready)
 1. Create a custom page (e.g., `toastmastersbrandkit.html`).
 2. Copy `index.html` contents and paste into the FTH editor.
 3. Save — the brand kit appears embedded.
+4. Here is a live page: https://4039.toastmastersclubs.org/toastmastersbrandkit.html
 
 ### GitHub Pages
 1. Enable GitHub Pages for this repo (branch: `main`, folder: `/root`).
